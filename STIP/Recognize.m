@@ -1,8 +1,3 @@
-% Project Title: Human Action Recognition
-% Author: Manu B.N
-% Contact: manubn88@gmail.com
-% Main module of action recognition
-
 close all
 clear all
 clc
