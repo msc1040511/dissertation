@@ -1,6 +1,4 @@
 function [] = train_final(  )
-%UNTITLED4 Summary of this function goes here
-%   Detailed explanation goes here
 
 load features_act
 load features
