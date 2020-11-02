@@ -1,6 +1,4 @@
 function [clust ] = k_m_1( data,k )
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
 % load gs
 % load gs.train_D
 % train_D
