@@ -1,6 +1,4 @@
 function [  ] = train(  )
-%UNTITLED5 Summary of this function goes here
-%   Detailed explanation goes here
 % train_feat=[];
 load train_feat_new
 % train_feat_new=[];
