@@ -64,7 +64,7 @@ end
 
 if p.Results.display
 	fprintf('Avg. execution time/batch:   %2.4f\n',mean(batchTime))
-    disp('-------------------------------------')
+    disp('--------------------------------------')
     fprintf('Total execution time:        %2.4f\n',sum(batchTime))
     disp('-------------------------------------')
 end
