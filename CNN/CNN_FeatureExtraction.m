@@ -44,7 +44,7 @@ cnnModel.info.opts.batchSize = 1500;
 % Using linear support vector machine (SVM) classifier.
 svmmdl = fitcsvm(cnnFeatures,trainingLabels);
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %for testing..
 % Load images from folder
 % Use imageSet to load images stored in DataSet folder
