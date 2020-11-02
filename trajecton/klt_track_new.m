@@ -1,6 +1,4 @@
     function [  ] = klt_track_new(  )
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 
 features=[];
 features_act={};
