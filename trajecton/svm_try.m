@@ -1,6 +1,4 @@
 function [  ] = svm_try(  )
-%UNTITLED6 Summary of this function goes here
-%   Detailed explanation goes here
 % load train_data_new
 % load Test_data_new
 % load test_data
