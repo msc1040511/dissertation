@@ -1,5 +1,4 @@
 function [classLabel, scores, batchTime] = cnnPredict(cnnModel,predImage,varargin)
-% Copyright (c) 2015, MathWorks, Inc.
 
 % Parse inputs
 p = inputParser;
